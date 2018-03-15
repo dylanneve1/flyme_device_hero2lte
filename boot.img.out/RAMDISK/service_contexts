@@ -159,12 +159,12 @@ phone_ext                                 u:object_r:radio_service:s0
 call_adapter                              u:object_r:telecom_service:s0
 alphame_server                      u:object_r:alphame_service:s0
 
-#line 1 "/mnt/lineage/cm-14.1/out/target/product/herolte/obj/ETC/sectxfile_nl_intermediates/sectxfile_nl"
+#line 1 "/mnt/lineage/cm-14.1/out/target/product/hero2lte/obj/ETC/sectxfile_nl_intermediates/sectxfile_nl"
 
 #line 1 "device/samsung/hero-common/sepolicy/service_contexts"
 # HWC
 Exynos.HWCService                           u:object_r:surfaceflinger_service:s0
-#line 1 "/mnt/lineage/cm-14.1/out/target/product/herolte/obj/ETC/sectxfile_nl_intermediates/sectxfile_nl"
+#line 1 "/mnt/lineage/cm-14.1/out/target/product/hero2lte/obj/ETC/sectxfile_nl_intermediates/sectxfile_nl"
 
 #line 1 "vendor/cm/sepolicy/service_contexts"
 edgegestureservice                        u:object_r:edge_gesture_service:s0
@@ -178,5 +178,5 @@ cmperformance                             u:object_r:cm_performance_service:s0
 cmweather                                 u:object_r:cm_weather_service:s0
 cmlivedisplay                             u:object_r:cm_livedisplay_service:s0               
 cmaudio                                   u:object_r:cm_audio_service:s0
-#line 1 "/mnt/lineage/cm-14.1/out/target/product/herolte/obj/ETC/sectxfile_nl_intermediates/sectxfile_nl"
+#line 1 "/mnt/lineage/cm-14.1/out/target/product/hero2lte/obj/ETC/sectxfile_nl_intermediates/sectxfile_nl"
 
