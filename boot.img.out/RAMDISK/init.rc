@@ -685,4 +685,3 @@ service flash_recovery /system/bin/install-recovery.sh
 service flymed /system/bin/flymed
     class main
     socket flymed stream 0660 root system
-
